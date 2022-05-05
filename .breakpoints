@@ -1,3 +1,32 @@
 {
-  "files": {}
+  "files": {
+    "Ala.java": [
+      {
+        "id": "df90b426-af64-4c92-88e0-0e3365da4a57",
+        "line": 8,
+        "version": 984,
+        "index": 118
+      }
+    ],
+    "Medico.java": [
+      {
+        "id": "c1e3b5d8-87e1-456f-8a28-c4760c96cd55",
+        "line": 1,
+        "version": 314,
+        "index": 0
+      },
+      {
+        "id": "c58030e2-4805-4649-8fea-643999bc3a4e",
+        "line": 2,
+        "version": 314,
+        "index": 1
+      },
+      {
+        "id": "1efd889d-e28c-4876-accf-7957818a6310",
+        "line": 3,
+        "version": 314,
+        "index": 15
+      }
+    ]
+  }
 }
